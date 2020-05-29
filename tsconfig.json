@@ -1,0 +1,12 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "CommonJS",
+    "rootDir": "src",
+    "outDir": "dist",
+    "target": "ES2020"
+  },
+  "exclude": [
+    "dist"
+  ]
+}

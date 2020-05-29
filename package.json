@@ -1,0 +1,14 @@
+{
+  "name": "typesafe-di-example",
+  "version": "0.0.1",
+  "description": "Example for Typesafe DI",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "typesafe-di": "^0.1.3"
+  }
+}
